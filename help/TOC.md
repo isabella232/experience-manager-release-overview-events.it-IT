@@ -3,10 +3,10 @@ user-guide-title: Panoramica sulla versione di Adobe Experience Manager as a Clo
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Panoramica rapida delle funzioni più recenti di Adobe Experience Manager as a Cloud Service
 breadcrumb-title: Aggiornamenti alla versione di AEM CS
-source-git-commit: 74544e9521f5bdd97a8d8b4c7f3a9d4a0c1025ad
+source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 25%
+source-wordcount: '52'
+ht-degree: 26%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 25%
 
 + [Panoramica](overview.md)
 + 2022 {#2022}
+   + [2022.4.0](./2022/2022-4-0.md)
    + [2022.3.0](./2022/2022-3-0.md)
    + [2022.1.0](./2022/2022-1-0.md)
 + 2021 {#2021}
