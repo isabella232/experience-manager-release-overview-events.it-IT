@@ -1,6 +1,6 @@
 ---
 source-git-commit: 45b5e3d8839ce08c208eb30eb18c0924ba9564c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
 ht-degree: 100%
 
@@ -13,7 +13,7 @@ Di seguito sono elencate alcune linee guida a cui attenersi quando si decide di 
 
 ## Codice di condotta
 
-Il progetto aderisce al [Codice di condotta](code-of-conduct.md) di Adobe. Con la tua partecipazione, accetti di rispettare questo codice. Segnalare eventuali condotte scorrette a 
+Il progetto aderisce al [Codice di condotta](code-of-conduct.md) di Adobe. Con la tua partecipazione, accetti di rispettare questo codice. Puoi segnalare eventuali condotte scorrette a 
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Documentazione relativa alla Guida per i collaboratori
@@ -43,4 +43,4 @@ Apprezziamo i contributi della nostra community. Se desideri essere qualcosa di 
 
 ## Problemi di sicurezza
 
-I problemi di sicurezza non devono essere segnalati in questo strumento di gestione dei problemi, ma puoi [segnalare un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html).
+I problemi di sicurezza non devono essere segnalati in questo strumento di gestione dei problemi, ma puoi [segnalarli ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html).
