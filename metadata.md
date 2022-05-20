@@ -7,9 +7,9 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-manager-release-overview-events.it-IT
 index: true
 source-git-commit: f6244f4853d8b334c549bc6b779cc8868a71bc7e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 60%
 
 Il file metadata.md include metadati a livello di archivio che vengono trasmessi ai file TOC.md della guida utente nell’archivio. Se desideri modificare il contenuto di metadata.md per una guida utente, puoi farlo intervenendo su un file TOC.md.
 
-Vedi [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) per un elenco di valori validi per **soluzione**, **prodotto** e **type**.
+Vedi [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=it) per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**.
