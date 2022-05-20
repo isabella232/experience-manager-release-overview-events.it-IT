@@ -1,11 +1,11 @@
 ---
 source-git-commit: 45b5e3d8839ce08c208eb30eb18c0924ba9564c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '430'
 ht-degree: 100%
 
 ---
-# Articolo sui contributi
+# Contribuire con articoli
 
 Accogliamo con interesse i contributi della nostra community e dei dipendenti Adobe esterni ai team di documentazione.
 
@@ -21,7 +21,7 @@ Le modalità con cui puoi offrire il tuo contributo dipendono dal tuo ruolo e da
 
 ### Modifiche minori
 
-Se desideri apportare solo piccoli aggiornamenti, accedi all’articolo e fai clic sul collegamento **Modifica** per passare alla sorgente dell’articolo su GitHub. Quindi, utilizza l’interfaccia utente di GitHub per apportare gli aggiornamenti. Per ulteriori informazioni, consulta la [Guida per i collaboratori per la documentazione di Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Se desideri apportare solo piccoli aggiornamenti, accedi all’articolo e fai clic sul collegamento **Modifica** per passare alla sorgente dell’articolo su GitHub. Quindi, utilizza l’interfaccia utente di GitHub per apportare gli aggiornamenti. Per ulteriori informazioni, consulta la [Guida per i collaboratori per la documentazione di Adobe](https://docs.adobe.com/content/help/it/contributor/contributor-guide/introduction.html).
 
 Le correzioni o i chiarimenti di minore entità inviati per la documentazione e gli esempi di codice in questo repository sono coperti dalle condizioni d’uso Adobe.
 
@@ -43,7 +43,7 @@ Se sei un autore tecnico, un responsabile di programma o uno sviluppatore di un 
 
 I collaboratori della community possono utilizzare l’interfaccia utente di GitHub per apportare modifiche di base o creare una copia tramite fork dell’archivio e apportare contributi importanti.
 
-Per ulteriori informazioni, consulta la [Guida per i collaboratori per la documentazione di Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Per ulteriori informazioni, consulta la [Guida per i collaboratori per la documentazione di Adobe](https://docs.adobe.com/content/help/it/contributor/contributor-guide/introduction.html).
 
 ## Come utilizzare il linguaggio Markdown per formattare l’argomento
 
