@@ -1,6 +1,6 @@
 ---
 source-git-commit: 45b5e3d8839ce08c208eb30eb18c0924ba9564c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '431'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ Nell’ottica di promuovere un ambiente aperto e accogliente, in qualità di ges
 
 Di seguito sono elencati alcuni esempi di comportamento che contribuiscono alla creazione di un ambiente positivo:
 
-* Utilizzo di un linguaggio amichevole e inclusivo
+* Utilizzo di un linguaggio cordiale e inclusivo
 * Rispetto di esperienze e punti di vista diversi dai propri
 * Capacità di accettare con gratitudine critiche costruttive
 * Attenzione alle esigenze della comunità
