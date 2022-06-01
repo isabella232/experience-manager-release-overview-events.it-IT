@@ -1,18 +1,18 @@
 ---
-title: Panoramica sulla versione di Adobe Experience Manager as a Cloud Service
-description: Panoramica rapida delle funzioni più recenti di Adobe Experience Manager as a Cloud Service
+title: 'Adobe Experience Manager as a Cloud Service: panoramica della versione'
+description: Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Aggiornamenti alla versione di Adobe Experience Manager as a Cloud Service
+# Aggiornamenti della versione di Adobe Experience Manager as a Cloud Service
 
-Panoramica rapida delle funzioni più recenti di Adobe Experience Manager as a Cloud Service. Si tratta di brevi video di circa 10 minuti forniti dal team di prodotto AEM che condividono gli elementi salienti dell’ultima versione.
+Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a Cloud Service. Si tratta di brevi video di circa 10 minuti forniti dal team di prodotto AEM, per presentare gli aspetti salienti dell’ultima versione.
 
 ## Ultimo aggiornamento
 
@@ -30,13 +30,13 @@ Panoramica rapida delle funzioni più recenti di Adobe Experience Manager as a C
         <em>Data di rilascio: 5 maggio 2022 </em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Note sulla versione</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
     <p>
   </td>
 </tr>  
 </table>
 
-## Aggiornamenti passati
+## Aggiornamenti precedenti
 
 <table style="max-width: 50%;">
 <tr>
@@ -49,10 +49,10 @@ Panoramica rapida delle funzioni più recenti di Adobe Experience Manager as a C
         <strong>Versione | 2022.3.0</strong>
         <br/>
       </a>
-        <em>Rilasciato il 31 marzo 2022 </em>
+        <em>Data di rilascio: 31 marzo 2022 </em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Note sulla versione</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
     <p>
   </td>
 </tr> 
@@ -66,15 +66,15 @@ Panoramica rapida delle funzioni più recenti di Adobe Experience Manager as a C
         <strong>Versione | 2022.1.0</strong>
         <br/>
       </a>
-        <em>Rilasciato il 3 febbraio 2022 </em>
+        <em>Data di rilascio: 3 febbraio 2022 </em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html">Note sulla versione</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html?lang=it">Note sulla versione</a>
     <p>
   </td>
   <td>
     <a href="./2021/2021-11-0.md">
-      <img alt="Versione 2021.11.0 di AEMCS" src="./2021/assets/2021-11-0.png" />
+      <img alt="Versione 2021.11.0 di AEM CS" src="./2021/assets/2021-11-0.png" />
     </a>
     <div>
     <a href="./2021/2021-11-0.md">
@@ -84,7 +84,7 @@ Panoramica rapida delle funzioni più recenti di Adobe Experience Manager as a C
     <em>Data di rilascio: 16 dicembre 2021</em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2021/release-notes-2021-11-0.html">Note sulla versione</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2021/release-notes-2021-11-0.html?lang=it">Note sulla versione</a>
     <p>
   </td>
 </tr>
