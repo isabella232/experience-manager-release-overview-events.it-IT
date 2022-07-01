@@ -5,8 +5,8 @@ user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 78db7decd3b6283f8a20766e7f8aa4a19adc8a26
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,9 +26,9 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
       <div>
         <a href="./2022/2022-6-0.md">
           <strong>Versione | 2022.6.0</strong>
-          <br/>
-        </a>
-          <em>Data di rilascio: 30 giugno 2022 </em>
+        <br/>
+      </a>
+        <em>Data di rilascio: 30 giugno 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
@@ -48,9 +48,9 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
       <div>
         <a href="./2022/2022-5-0.md">
           <strong>Versione | 2022.5.0</strong>
-          <br/>
-        </a>
-          <em>Data di rilascio: 9 giugno 2022 </em>
+        <br/>
+      </a>
+        <em>Data di rilascio: 9 giugno 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Note sulla versione</a>
