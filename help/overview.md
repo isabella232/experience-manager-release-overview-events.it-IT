@@ -47,13 +47,9 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
       </a>
       <div>
         <a href="./2022/2022-7-0.md">
-
           <strong>Versione | 2022.7.0</strong>
-
           <br/>
-
         </a>
-
           <em>Data di rilascio: 8 agosto 2022 </em>
       </div>
       <p>
