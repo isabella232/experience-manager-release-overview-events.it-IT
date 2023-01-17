@@ -1,8 +1,8 @@
 ---
 source-git-commit: 30023bd31b4d59e273fa257624da3c7934cae2b7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '424'
+ht-degree: 100%
 
 ---
 # Contribuire con articoli
