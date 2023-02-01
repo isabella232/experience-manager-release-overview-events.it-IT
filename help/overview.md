@@ -4,8 +4,8 @@ description: Veloce panoramica delle funzioni più recenti di Adobe Experience M
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 3ceaa55864804a2e3f778f155012e3d347cf8247
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '207'
 ht-degree: 100%
 
 ---
