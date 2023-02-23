@@ -4,9 +4,9 @@ description: Veloce panoramica delle funzioni più recenti di Adobe Experience M
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: f0bb8749fd075a4fcc366d28c6606087e323a9f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
           <strong>Versione | 2023.1.0</strong>
           <br/>
         </a>
-          <em>Data di rilascio febbraio 2023 </em>
+          <em>Data di rilascio: febbraio 2023</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
@@ -47,10 +47,10 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
       </a>
       <div>
         <a href="./2022/2022-10-0.md">
- <strong>Versione | 2022.10.0</strong>
- <br/>
- </a>
- <em>Data di rilascio 13 ottobre 2022 </em>
+          <strong>Versione | 2022.10.0</strong>
+          <br/>
+        </a>
+          <em>Data di rilascio 13 ottobre 2022</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
@@ -65,7 +65,7 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
           <strong>Versione | 2022.8.0</strong>
           <br/>
         </a>
-          <em>Data di rilascio: 1 settembre 2022</em>  
+          <em>Data di rilascio: 1 settembre 2022</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
